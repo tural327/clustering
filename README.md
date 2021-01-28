@@ -8,4 +8,4 @@ K-means..
 
 -For second step I did correlation with my parametrs: 
 
-![](https://github.com/tural327/clustering/blob/main/K-means/Corr().png)
+![We can see gdpp and income, total_fer and child_mort,inport and export highly correlated](https://github.com/tural327/clustering/blob/main/K-means/Corr().png)
